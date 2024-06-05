@@ -1,0 +1,9 @@
+crossover crossfill flip shift
+pattern 4123
+length 30
+population 1000
+evals 100000
+parents 16
+mutations 10
+seed 100
+display full
